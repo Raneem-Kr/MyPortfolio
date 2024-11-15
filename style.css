@@ -24,9 +24,5 @@
 flex-direction: column;
 justify-items: center;
 }
-    .section img{
-       max-width: 100%;
-        height: auto;
-        display: block;
-    }
+
 }
