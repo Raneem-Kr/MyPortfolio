@@ -1,7 +1,7 @@
 @media only screen and (max-width: 570px){
     .anchor a{
-        font-size: 10px;
-        padding: 0 3px;
+        font-size: 9px;
+        padding: 0 2px;
     }
     .nav h1{
         font-size: 16px;
@@ -13,9 +13,11 @@
  }
  .main h1{
     font-size: 12px;
+     margin-left: 3px;
  }
  .main p{
     font-size: 12px;
+       margin-left: 3px;
  }
  .section{
    display: flex;
