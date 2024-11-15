@@ -24,6 +24,6 @@ justify-items: center;
 }
     .section img{
         width: fit-content;
-        height: auto;
+        height: 50%;
     }
 }
